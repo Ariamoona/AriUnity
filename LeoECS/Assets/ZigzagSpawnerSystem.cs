@@ -65,6 +65,6 @@ public partial struct ZigzagSpawnerSystem : ISystem
             }
         }
 
-        Debug.Log($"<color=green>✅ Создано {index} мячиков с зигзагом!</color>");
+        Debug.Log($"<color=green> Создано {index} мячиков с зигзагом!</color>");
     }
 }
