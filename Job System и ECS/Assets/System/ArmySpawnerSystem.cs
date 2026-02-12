@@ -23,7 +23,7 @@ public partial struct ArmySpawnerSystem : ISystem
         var config = SystemAPI.GetSingleton<SpawnerConfig>();
         if (config.Prefab == Entity.Null)
         {
-            Debug.LogError("❌ Prefab не назначен!");
+            Debug.LogError(" Prefab не назначен!");
             return;
         }
 
@@ -63,6 +63,6 @@ public partial struct ArmySpawnerSystem : ISystem
             }
         }
 
-        Debug.Log($"<color=green>✅ Создано {totalCount} сущностей!</color>");
+        Debug.Log($"<color=green> Создано {totalCount} сущностей!</color>");
     }
 }
