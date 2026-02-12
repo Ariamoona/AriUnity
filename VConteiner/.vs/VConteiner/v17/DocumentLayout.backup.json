@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\VConteiner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{099EB2D1-827F-4921-8F68-86510A3D05FE}|Assembly-CSharp.csproj|c:\\users\\\u0430\u0440\u0438\u043D\u0430\\vconteiner\\assets\\gamelifetimescope.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{099EB2D1-827F-4921-8F68-86510A3D05FE}|Assembly-CSharp.csproj|solutionrelative:assets\\gamelifetimescope.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{099EB2D1-827F-4921-8F68-86510A3D05FE}|Assembly-CSharp.csproj|c:\\users\\\u0430\u0440\u0438\u043D\u0430\\vconteiner\\assets\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{099EB2D1-827F-4921-8F68-86510A3D05FE}|Assembly-CSharp.csproj|solutionrelative:assets\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{099EB2D1-827F-4921-8F68-86510A3D05FE}|Assembly-CSharp.csproj|c:\\users\\\u0430\u0440\u0438\u043D\u0430\\vconteiner\\assets\\obstaclespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{099EB2D1-827F-4921-8F68-86510A3D05FE}|Assembly-CSharp.csproj|solutionrelative:assets\\obstaclespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{099EB2D1-827F-4921-8F68-86510A3D05FE}|Assembly-CSharp.csproj|c:\\users\\\u0430\u0440\u0438\u043D\u0430\\vconteiner\\assets\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{099EB2D1-827F-4921-8F68-86510A3D05FE}|Assembly-CSharp.csproj|solutionrelative:assets\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{099EB2D1-827F-4921-8F68-86510A3D05FE}|Assembly-CSharp.csproj|c:\\users\\\u0430\u0440\u0438\u043D\u0430\\vconteiner\\assets\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{099EB2D1-827F-4921-8F68-86510A3D05FE}|Assembly-CSharp.csproj|solutionrelative:assets\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{099EB2D1-827F-4921-8F68-86510A3D05FE}|Assembly-CSharp.csproj|C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\VConteiner\\assets\\gameoverhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{099EB2D1-827F-4921-8F68-86510A3D05FE}|Assembly-CSharp.csproj|solutionrelative:assets\\gameoverhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ScoreManager.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\VConteiner\\Assets\\ScoreManager.cs",
+              "RelativeDocumentMoniker": "Assets\\ScoreManager.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\VConteiner\\Assets\\ScoreManager.cs",
+              "RelativeToolTip": "Assets\\ScoreManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T05:52:12.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ObstacleSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\VConteiner\\Assets\\ObstacleSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\ObstacleSpawner.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\VConteiner\\Assets\\ObstacleSpawner.cs",
+              "RelativeToolTip": "Assets\\ObstacleSpawner.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T05:51:45.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\VConteiner\\Assets\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\VConteiner\\Assets\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\PlayerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T05:51:24.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\VConteiner\\Assets\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\GameManager.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\VConteiner\\Assets\\GameManager.cs",
+              "RelativeToolTip": "Assets\\GameManager.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T05:51:00.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameLifetimeScope.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\VConteiner\\Assets\\GameLifetimeScope.cs",
+              "RelativeDocumentMoniker": "Assets\\GameLifetimeScope.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\VConteiner\\Assets\\GameLifetimeScope.cs",
+              "RelativeToolTip": "Assets\\GameLifetimeScope.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T05:49:18.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameOverHandler.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\VConteiner\\Assets\\GameOverHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\GameOverHandler.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\VConteiner\\Assets\\GameOverHandler.cs",
+              "RelativeToolTip": "Assets\\GameOverHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T05:49:11.228Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

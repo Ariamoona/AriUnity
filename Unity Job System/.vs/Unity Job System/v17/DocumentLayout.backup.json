@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Unity Job System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B01E196-46D3-8A68-90D9-8CC6AF153F08}|Assembly-CSharp.csproj|C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Unity Job System\\assets\\simplerotator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B01E196-46D3-8A68-90D9-8CC6AF153F08}|Assembly-CSharp.csproj|solutionrelative:assets\\simplerotator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B01E196-46D3-8A68-90D9-8CC6AF153F08}|Assembly-CSharp.csproj|C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Unity Job System\\assets\\logarithmcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B01E196-46D3-8A68-90D9-8CC6AF153F08}|Assembly-CSharp.csproj|solutionrelative:assets\\logarithmcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B01E196-46D3-8A68-90D9-8CC6AF153F08}|Assembly-CSharp.csproj|C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Unity Job System\\assets\\logarithmjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B01E196-46D3-8A68-90D9-8CC6AF153F08}|Assembly-CSharp.csproj|solutionrelative:assets\\logarithmjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B01E196-46D3-8A68-90D9-8CC6AF153F08}|Assembly-CSharp.csproj|C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Unity Job System\\assets\\objectspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B01E196-46D3-8A68-90D9-8CC6AF153F08}|Assembly-CSharp.csproj|solutionrelative:assets\\objectspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B01E196-46D3-8A68-90D9-8CC6AF153F08}|Assembly-CSharp.csproj|c:\\users\\\u0430\u0440\u0438\u043D\u0430\\unity job system\\assets\\rotatingcirclejob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B01E196-46D3-8A68-90D9-8CC6AF153F08}|Assembly-CSharp.csproj|solutionrelative:assets\\rotatingcirclejob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LogarithmCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Unity Job System\\Assets\\LogarithmCalculator.cs",
+              "RelativeDocumentMoniker": "Assets\\LogarithmCalculator.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Unity Job System\\Assets\\LogarithmCalculator.cs",
+              "RelativeToolTip": "Assets\\LogarithmCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T06:18:05.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LogarithmJob.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Unity Job System\\Assets\\LogarithmJob.cs",
+              "RelativeDocumentMoniker": "Assets\\LogarithmJob.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Unity Job System\\Assets\\LogarithmJob.cs",
+              "RelativeToolTip": "Assets\\LogarithmJob.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T06:17:25.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SimpleRotator.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Unity Job System\\Assets\\SimpleRotator.cs",
+              "RelativeDocumentMoniker": "Assets\\SimpleRotator.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Unity Job System\\Assets\\SimpleRotator.cs",
+              "RelativeToolTip": "Assets\\SimpleRotator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T06:16:39.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ObjectSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Unity Job System\\Assets\\ObjectSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\ObjectSpawner.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Unity Job System\\Assets\\ObjectSpawner.cs",
+              "RelativeToolTip": "Assets\\ObjectSpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T06:15:33.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RotatingCircleJob.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Unity Job System\\Assets\\RotatingCircleJob.cs",
+              "RelativeDocumentMoniker": "Assets\\RotatingCircleJob.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Unity Job System\\Assets\\RotatingCircleJob.cs",
+              "RelativeToolTip": "Assets\\RotatingCircleJob.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T06:14:58.7Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

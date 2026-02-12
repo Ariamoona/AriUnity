@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Job System \u0438 ECS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{614AD611-1584-6CDE-9767-6D2ADA566113}|Assembly-CSharp.csproj|c:\\users\\\u0430\u0440\u0438\u043D\u0430\\job system \u0438 ecs\\assets\\object\\armyprefabauthoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{614AD611-1584-6CDE-9767-6D2ADA566113}|Assembly-CSharp.csproj|solutionrelative:assets\\object\\armyprefabauthoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614AD611-1584-6CDE-9767-6D2ADA566113}|Assembly-CSharp.csproj|C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Job System \u0438 ECS\\assets\\system\\armyspawnersystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{614AD611-1584-6CDE-9767-6D2ADA566113}|Assembly-CSharp.csproj|solutionrelative:assets\\system\\armyspawnersystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614AD611-1584-6CDE-9767-6D2ADA566113}|Assembly-CSharp.csproj|C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Job System \u0438 ECS\\assets\\system\\circlemovementsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{614AD611-1584-6CDE-9767-6D2ADA566113}|Assembly-CSharp.csproj|solutionrelative:assets\\system\\circlemovementsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614AD611-1584-6CDE-9767-6D2ADA566113}|Assembly-CSharp.csproj|C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Job System \u0438 ECS\\assets\\ecsstatsdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{614AD611-1584-6CDE-9767-6D2ADA566113}|Assembly-CSharp.csproj|solutionrelative:assets\\ecsstatsdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614AD611-1584-6CDE-9767-6D2ADA566113}|Assembly-CSharp.csproj|C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Job System \u0438 ECS\\assets\\ecsscenegizmos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{614AD611-1584-6CDE-9767-6D2ADA566113}|Assembly-CSharp.csproj|solutionrelative:assets\\ecsscenegizmos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614AD611-1584-6CDE-9767-6D2ADA566113}|Assembly-CSharp.csproj|C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Job System \u0438 ECS\\assets\\object\\armyspawnerauthoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{614AD611-1584-6CDE-9767-6D2ADA566113}|Assembly-CSharp.csproj|solutionrelative:assets\\object\\armyspawnerauthoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614AD611-1584-6CDE-9767-6D2ADA566113}|Assembly-CSharp.csproj|C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Job System \u0438 ECS\\assets\\object\\spawnerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{614AD611-1584-6CDE-9767-6D2ADA566113}|Assembly-CSharp.csproj|solutionrelative:assets\\object\\spawnerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614AD611-1584-6CDE-9767-6D2ADA566113}|Assembly-CSharp.csproj|C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Job System \u0438 ECS\\assets\\move\\circlecenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{614AD611-1584-6CDE-9767-6D2ADA566113}|Assembly-CSharp.csproj|solutionrelative:assets\\move\\circlecenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614AD611-1584-6CDE-9767-6D2ADA566113}|Assembly-CSharp.csproj|C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Job System \u0438 ECS\\assets\\move\\radius.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{614AD611-1584-6CDE-9767-6D2ADA566113}|Assembly-CSharp.csproj|solutionrelative:assets\\move\\radius.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614AD611-1584-6CDE-9767-6D2ADA566113}|Assembly-CSharp.csproj|C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Job System \u0438 ECS\\assets\\object\\movespeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{614AD611-1584-6CDE-9767-6D2ADA566113}|Assembly-CSharp.csproj|solutionrelative:assets\\object\\movespeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ECSSceneGizmos.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Job System \u0438 ECS\\Assets\\ECSSceneGizmos.cs",
+              "RelativeDocumentMoniker": "Assets\\ECSSceneGizmos.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Job System \u0438 ECS\\Assets\\ECSSceneGizmos.cs",
+              "RelativeToolTip": "Assets\\ECSSceneGizmos.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T06:48:38.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ECSStatsDisplay.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Job System \u0438 ECS\\Assets\\ECSStatsDisplay.cs",
+              "RelativeDocumentMoniker": "Assets\\ECSStatsDisplay.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Job System \u0438 ECS\\Assets\\ECSStatsDisplay.cs",
+              "RelativeToolTip": "Assets\\ECSStatsDisplay.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T06:47:48.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CircleMovementSystem.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Job System \u0438 ECS\\Assets\\System\\CircleMovementSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\System\\CircleMovementSystem.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Job System \u0438 ECS\\Assets\\System\\CircleMovementSystem.cs",
+              "RelativeToolTip": "Assets\\System\\CircleMovementSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T06:46:46.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArmySpawnerSystem.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Job System \u0438 ECS\\Assets\\System\\ArmySpawnerSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\System\\ArmySpawnerSystem.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Job System \u0438 ECS\\Assets\\System\\ArmySpawnerSystem.cs",
+              "RelativeToolTip": "Assets\\System\\ArmySpawnerSystem.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T06:44:52.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArmyPrefabAuthoring.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Job System \u0438 ECS\\Assets\\Object\\ArmyPrefabAuthoring.cs",
+              "RelativeDocumentMoniker": "Assets\\Object\\ArmyPrefabAuthoring.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Job System \u0438 ECS\\Assets\\Object\\ArmyPrefabAuthoring.cs",
+              "RelativeToolTip": "Assets\\Object\\ArmyPrefabAuthoring.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAnwCQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T06:43:54.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ArmySpawnerAuthoring.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Job System \u0438 ECS\\Assets\\Object\\ArmySpawnerAuthoring.cs",
+              "RelativeDocumentMoniker": "Assets\\Object\\ArmySpawnerAuthoring.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Job System \u0438 ECS\\Assets\\Object\\ArmySpawnerAuthoring.cs",
+              "RelativeToolTip": "Assets\\Object\\ArmySpawnerAuthoring.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAYwC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T06:43:17.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SpawnerConfig.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Job System \u0438 ECS\\Assets\\Object\\SpawnerConfig.cs",
+              "RelativeDocumentMoniker": "Assets\\Object\\SpawnerConfig.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Job System \u0438 ECS\\Assets\\Object\\SpawnerConfig.cs",
+              "RelativeToolTip": "Assets\\Object\\SpawnerConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T06:42:39.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CircleCenter.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Job System \u0438 ECS\\Assets\\Move\\CircleCenter.cs",
+              "RelativeDocumentMoniker": "Assets\\Move\\CircleCenter.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Job System \u0438 ECS\\Assets\\Move\\CircleCenter.cs",
+              "RelativeToolTip": "Assets\\Move\\CircleCenter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T06:42:03.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Radius.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Job System \u0438 ECS\\Assets\\Move\\Radius.cs",
+              "RelativeDocumentMoniker": "Assets\\Move\\Radius.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Job System \u0438 ECS\\Assets\\Move\\Radius.cs",
+              "RelativeToolTip": "Assets\\Move\\Radius.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T06:41:08.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Movespeed.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Job System \u0438 ECS\\Assets\\Object\\Movespeed.cs",
+              "RelativeDocumentMoniker": "Assets\\Object\\Movespeed.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Job System \u0438 ECS\\Assets\\Object\\Movespeed.cs",
+              "RelativeToolTip": "Assets\\Object\\Movespeed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T06:36:51.913Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
